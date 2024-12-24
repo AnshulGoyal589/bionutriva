@@ -1,0 +1,9 @@
+{
+    "name": "anshul/lucide-react",
+    "autoload": {
+        "psr-4": {
+            "Anshul\\LucideReact\\": "src/"
+        }
+    },
+    "require": {}
+}
