@@ -10,7 +10,7 @@ const HeroText = () => {
         </div>
         <div className="flex items-center gap-1 text-gray-600">
           <Star className="w-4 h-4 text-yellow-400 fill-current" />
-          <span className="text-xs lg:text-sm">4.9/5 from 10k+ reviews</span>
+          <span className="text-xs lg:text-sm">4.8/5 from 10k+ reviews</span>
         </div>
       </div>
       <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-4 lg:mb-6 leading-tight">
